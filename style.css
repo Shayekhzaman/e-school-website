@@ -1,0 +1,29 @@
+
+.sign-button{
+    background-color: rgb(27, 179, 27);
+    border: none;
+    border-radius: 30px;
+    padding: 5px 20px;
+    color:white;
+}
+#logo{
+    margin-right: 400px;
+}
+.get-started-area{
+    margin-top: 70px;
+}
+.background-color{
+    background-color: rgb(239, 253, 253);
+}
+.margin-between-two-area{
+    margin-bottom: 50px;
+}
+.card h5{
+    padding-top: 10px;
+}
+.card{
+    border: none;   
+}
+#student-card{
+    box-shadow: 5px 5px 10px grey;
+}
