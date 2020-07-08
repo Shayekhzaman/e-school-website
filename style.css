@@ -49,6 +49,13 @@
 .footer-element{
     margin-top: 30px;
 }
+#carsoul-image{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height:15rem;
+  width: 45rem;
+}
 footer{
     color: white;
     text-align: center;
